@@ -1,0 +1,120 @@
+A comparative study on annotation quality of crowdsourcing and llm via label aggregation
+A fully automated pipeline for conversational discourse annotation: Tree scheme generation and labeling with large language models
+A review of public datasets in question answering research
+Active learning with crowd sourcing improves information retrieval
+Aligning crowd-sourced human feedback for reinforcement learning on code generation by large language models
+Annollm: Making large language models to be better crowdsourced annotators
+Ask the experts: sourcing a high-quality nutrition counseling dataset through human-ai collaboration
+Augesc: Dialogue augmentation with large language models for emotional support conversation
+Bench-o-matic: Automating benchmark curation from crowdsourced data
+
+Bleu: a method for automatic evaluation of machine translation
+
+Can large language models aid in annotating speech emotional data? uncovering new frontiers
+Can llm already serve as a database interface? a big bench for large-scale database grounded text-to-sqls
+
+Characterizing crowds to better optimize worker recommendation in crowdsourced testing
+
+Characterizing large language models as rationalizers of knowledge-intensive tasks
+Chatgpt to replace crowdsourcing of paraphrases for intent classification: Higher diversity and comparable model robustness
+Cheap and fast—but is it good?: evaluating non-expert annotations for natural language tasks
+
+Conqret: Benchmarking fine-grained evaluation of retrieval augmented argumentation with llm judges
+
+Context does matter: Implications for crowdsourced evaluation labels in task-oriented dialogue systems
+Conversational ai threads for visualizing multidimensional datasets
+
+Coverage-constrained quality maximization in crowdsourcing test
+
+Crowd-powered data mining
+
+Crowdsourcing intelligence for improving disaster forecasts
+Crowdsourcing or ai sourcing?
+Dialogcc: An automated pipeline for creating high-quality multi-modal dialogue dataset
+Doing personal laps: Llm-augmented dialogue construction for personalized multi-session conversational search
+
+Do interpersonal skills affect human-ai collaboration performance? a study with chatgpt
+
+Efficiency and effectiveness of llm-based summarization of evidence in crowdsourced fact-checking
+Efficient data labeling by hierarchical crowdsourcing with large language models
+Employing large language models in survey research
+Faircs—blockchain-based fair crowdsensing scheme using trusted execution environment
+Fluid transformers and creative analogies: Exploring large language models’ capacity for augmenting cross-domain analogical creativity
+Free lunch for user experience: Crowdsourcing agents for scalable user studies
+From crowdsourcing to large multimodal models: Toward enhancing image data annotation with gpt-4v
+From moments to milestones: Incremental timeline summarization leveraging large language models
+Generating usage-related questions for preference elicitation in conversational recommender systems
+Gpts are multilingual annotators for sequence generation tasks
+Harnessing large language models for cost-effective relevance labeling in job search systems
+Help me think: A simple prompting strategy for non-experts to create customized content with models
+Hollywood in homes: Crowdsourcing data collection for activity understanding
+
+Human evaluation of text style transfer: A user study
+
+Human-llm collaborative construction of a cantonese emotion lexicon
+If in a crowdsourced data annotation pipeline, a gpt-4
+Instructions as backdoors: Backdoor vulnerabilities of instruction tuning for large language models
+
+Interpretable and interactive learning with human-in-the-loop
+
+Is crowdsourcing breaking your bank? cost-effective fine-tuning of pre-trained language models with proximal policy optimization
+Is gpt-3 text indistinguishable from human text? scarecrow: A framework for scrutinizing machine text
+Judging llm-as-a-judge with mt-bench and chatbot arena
+Learning from crowdsourced noisy labels: A signal processing perspective
+Llms as workers in human-computational algorithms? replicating crowdsourcing pipelines with llms
+Llms to replace crowdsourcing for parallel data creation? the case of text detoxification
+
+Mask benchmark: Disentangling honesty from accuracy in ai systems
+
+Measuring social biases of crowd workers using counterfactual queries
+Model-in-the-loop (milo): Accelerating multimodal ai data annotation with llms
+Moca: Cognitive scaffolding for language models in causal and moral judgment tasks
+Near-real-time earthquake-induced fatality estimation using crowdsourced data and large-language models
+Neuro-symbolic procedural planning with commonsense prompting
+On replacing humans with large language models in voice-based human-in-the-loop systems
+On the role of large language models in crowdsourcing misinformation assessment
+Pandalm: An automatic evaluation benchmark for llm instruction tuning optimization
+Parallelparc: A scalable pipeline for generating natural-language analogies
+Perturbation augmentation for fairer nlp
+Phalm: Building a knowledge graph from scratch by prompting humans and a language model
+Power-up! what can generative models do for human computation workflows?
+Reasoning about procedures with natural language processing: A tutorial
+
+Rebel: Rule-based and experience-enhanced learning with llms for initial task allocation in multi-human multi-robot teaming
+
+Redefining crowdsourced test report prioritization: An innovative approach with large language model
+Redefining research crowdsourcing: Incorporating human feedback with llm-powered digital twins
+Reframing human-ai collaboration for generating free-text explanations
+
+Reinforcement learning from human feedback: A survey
+
+Responsible crowdsourcing for responsible generative ai: Engaging crowds in ai auditing and evaluation
+Revisiting bundle recommendation for intent-aware product bundling
+Robustifying safety-aligned large language models through clean data curation
+Safeguarding crowdsourcing surveys from chatgpt with prompt injection
+Sample-efficient human evaluation of large language models via maximum discrepancy competition
+Scaling public health text annotation: Zero-shot learning vs. crowdsourcing for improved efficiency and labeling accuracy
+Synthetic data generation with large language models for text classification: Potential and limitations
+Targen: Targeted data generation with large language models
+The coughvid crowdsourcing dataset, a corpus for the study of large-scale cough analysis algorithms
+The dark side of recruitment in crowdsourcing: Ethics and transparency in micro-task marketplaces
+
+The gem benchmark: Natural language generation, its evaluation and metrics
+
+The mask benchmark: Disentangling honesty from accuracy in ai systems
+The use of large language models to enhance cancer clinical trial educational materials
+Towards ai-empowered crowdsourcing
+Towards personalized evaluation of large language models with an anonymous crowd-sourcing platform
+Training a helpful and harmless assistant with reinforcement learning from human feedback
+Training language models to follow instructions with human feedback
+
+Tree scheme generation and labeling with large language models
+
+Trustworthy llms: a survey and guideline for evaluating large language models’ alignment
+Truth knows no language: Evaluating truthfulness beyond english
+Unnatural instructions: Tuning language models with (almost) no human labor
+Uni-rlhf: Universal platform and benchmark suite for reinforcement learning with diverse human feedback
+What do users really ask large language models?
+Wikiwhy: Answering and explaining cause-and-effect questions
+Wikichat: Stopping the hallucination of large language model chatbots by few-shot grounding on wikipedia
+Words are all you need? language as an approximation for human similarity judgments
